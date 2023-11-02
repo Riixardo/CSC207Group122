@@ -55,6 +55,7 @@ public class Main {
 
         application.setSize(500, 300);
         application.setVisible(true);
+        System.out.println('H');
     }
 }
 //Raymond added a comment
